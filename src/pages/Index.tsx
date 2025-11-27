@@ -24,7 +24,7 @@ const Index = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    window.open('https://t.me/AndrewSochy', '_blank');
+    window.open('https://t.me/m/jB7TgE7sYjhi', '_blank');
   };
 
   const scrollToOrder = () => {
