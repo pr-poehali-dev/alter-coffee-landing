@@ -283,7 +283,7 @@ const Index = () => {
                 step: '01',
                 icon: '🥄',
                 title: 'Насыпать',
-                description: '1-2 чайные ложки напитка в кружку',
+                description: '3-4 чайные ложки напитка в кружку',
               },
               {
                 step: '02',
@@ -414,7 +414,7 @@ const Index = () => {
               Попробуйте Alter Coffee сейчас
             </h2>
             <p className="text-lg text-muted-foreground">
-              Смесь для напитка в удобной экологичной упаковке. Хватит на 20-25 порций.
+              Смесь для напитка в удобной экологичной упаковке. Хватит на 10-15 порций.
             </p>
           </div>
 
@@ -423,7 +423,7 @@ const Index = () => {
               <div className="mb-8 text-center">
                 <div className="inline-block">
                   <div className="flex items-baseline gap-2 mb-2">
-                    <span className="text-5xl font-bold text-primary">890₽</span>
+                    <span className="text-5xl font-bold text-primary">990₽</span>
                     <span className="text-xl text-muted-foreground line-through">1290₽</span>
                   </div>
                   <Badge className="px-4 py-1">Скидка 30% на первую покупку</Badge>
