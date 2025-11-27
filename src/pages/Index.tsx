@@ -24,10 +24,7 @@ const Index = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    toast({
-      title: 'Спасибо за заказ!',
-      description: 'Мы свяжемся с вами в ближайшее время.',
-    });
+    window.open('https://t.me/AndrewSochy', '_blank');
   };
 
   const scrollToOrder = () => {
