@@ -214,7 +214,7 @@ const Index = () => {
                 </div>
                 <h3 className="font-handwritten text-3xl font-bold mb-3">Пряности</h3>
                 <p className="text-muted-foreground">
-                  Корица и кардамон для уюта и тепла
+                  Кукурузная патока, бадьян, кардамон, перец
                 </p>
               </CardContent>
             </Card>
@@ -411,7 +411,7 @@ const Index = () => {
               Попробуйте Alter Coffee сейчас
             </h2>
             <p className="text-lg text-muted-foreground">
-              Смесь для напитка в удобной экологичной упаковке. Хватит на 10-15 порций.
+              Смесь для напитка в удобной экологичной упаковке 250гр. Хватит на 10-15 порций.
             </p>
           </div>
 
